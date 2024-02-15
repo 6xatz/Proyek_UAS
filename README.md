@@ -1,10 +1,11 @@
 ## Mata Kuliah
+
 Sebagai Proyek UAS: Bahasa Pemrograman | Universitas Pelita Bangsa.
 
 ## Proyek UAS
 
-|Video YouTube: |https://youtu.be/Im0750EMZ4Y |
-| --- | --- |
+| Video YouTube: | https://youtu.be/Im0750EMZ4Y |
+| -------------- | ---------------------------- |
 
 <p align="left">
   <img src="/ss/hasil.jpg" width="450">
@@ -80,15 +81,17 @@ Sebagai Proyek UAS: Bahasa Pemrograman | Universitas Pelita Bangsa.
     if __name__ == "__main__":
         main()
 
-fungsi dan penjelasan sudah tertera pada ***#*** dan ***print*** diatas.
+fungsi dan penjelasan sudah tertera pada **_#_** dan **_print_** diatas.
 
 ## Flowchart | Proyek UAS
+
 <p align="left">
   <img src="/ss/flowchart.jpg" width="180">
 </p>
 
-flowchart ini menggunakan ***dictionary*** beserta ***[]*** agar lebih mudah menempatkan ***value***.
-sehingga ***append*** dapat di-fungsikan dengan lebih mudah.
+flowchart ini menggunakan **_dictionary_** beserta **_[]_** agar lebih mudah menempatkan **_value_**.
+sehingga **_append_** dapat di-fungsikan dengan lebih mudah.
 
 ## Documentation
+
 All associated resources. are licensed under the [MIT License](https://mit-license.org/).
